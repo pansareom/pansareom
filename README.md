@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **omdeepakpansare@gmail.com**
 
-- 📄 Know about my experiences [pansareom.github.io/Resume](pansareom.github.io/Resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pansareom__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pansareom__" height="30" width="40" /></a>
